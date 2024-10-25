@@ -6,6 +6,10 @@ requires = [
 backend-path = [
   "_custom_build",
 ]
+[pytest]
+markers =
+    timeout: timeout for tests
+
 
 [project]
 name = "pillow"
