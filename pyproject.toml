@@ -6,8 +6,6 @@ requires = [
 backend-path = [
   "_custom_build",
 ]
-
-
 [project]
 name = "pillow"
 description = "Python Imaging Library (Fork)"
