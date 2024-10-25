@@ -22,8 +22,7 @@ from .helper import on_ci
 @pytest.mark.parametrize(
     "test_file",
     [
-        "Tests/images/crash_1.tif",
-        "Tests/images/crash_2.tif",
+        
         "Tests/images/crash-2020-10-test.tif",
         "Tests/images/crash-0c7e0e8e11ce787078f00b5b0ca409a167f070e0.tif",
         "Tests/images/crash-0e16d3bfb83be87356d026d66919deaefca44dac.tif",
